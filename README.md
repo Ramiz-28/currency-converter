@@ -75,7 +75,7 @@ This project helped me practice:
 Add your Vercel deployment link here:
 
 ```text
-https://currency-converter.vercel.app
+https://currency-converter-ol6l.vercel.app
 ```
 
 ## Author
